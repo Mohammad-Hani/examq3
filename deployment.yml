@@ -15,5 +15,5 @@ spec:
         app: webapp
     spec:
       containers:
-        - name: webappdemo
-          image: mohammadhani14/webapp:v1
+        - name: examdemoq6
+          image: mohammadhani14/examdemo:v1
